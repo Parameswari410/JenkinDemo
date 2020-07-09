@@ -6,5 +6,4 @@ public class DemoProject {
 		System.out.println("Miracle will happen");
 		stem.out.println("Believe in Universe");
 	}
-
 }
